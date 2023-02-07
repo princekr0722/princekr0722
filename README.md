@@ -1,4 +1,4 @@
-import GitHubCalendar from 'react-github-calendar';
+
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">Java Backend Developer</h3>
 
