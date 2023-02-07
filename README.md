@@ -1,5 +1,10 @@
+import GitHubCalendar from 'react-github-calendar';
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">Java Backend Developer</h3>
+
+
+
+<GitHubCalendar username="princekr0722" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekr0722&label=Profile%20views&color=0e75b6&style=flat" alt="princekr0722" /> </p>
 
