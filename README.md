@@ -17,6 +17,8 @@
 
 - 💬 Ask me about **Java, MySQL, JavaScript, HTML, CSS**
 
+- Connect with me on <a href="https://www.linkedin.com/in/prince-kumar-7b9194247/">Linkdin</a>
+
 - 📫 How to reach me **knownasprincekr@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IE8nYQJuCAZkeaaYaVQdGL_VD2iI81hD/view?usp=share_link](https://drive.google.com/file/d/1IE8nYQJuCAZkeaaYaVQdGL_VD2iI81hD/view?usp=share_link)
@@ -24,7 +26,8 @@
 - ⚡ Fun fact **I learn quick.**
 
 
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-7b9194247/) 
+<!-- ## 🌐 Socials:  -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-7b9194247/)  -->
 <!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/princekr0722) -->
 <!-- [[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/S_wap_nil#3793)  -->
 
