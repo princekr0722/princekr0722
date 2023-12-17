@@ -7,15 +7,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princekr0722" alt="princekr0722" /></a> </p>
 
-- 💻 My Recent Project [Licious Clone](https://candid-sorbet-838343.netlify.app/)
+- 💻 My Recent Project [Instagram's Clone](https://insightgram.netlify.app)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 💻 My Second Last Project [Licious Clone](https://candid-sorbet-838343.netlify.app/)
 
-- 💻 My Second Last Project [PharmEasy Clone](https://steady-jalebi-560beb.netlify.app/)
+- 👨‍💻 All of my projects: [https://princekr0722.github.io/](https://princekr0722.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://princekr0722.github.io/](https://princekr0722.github.io/)
-
-- 💬 Ask me about **Java, MySQL, JavaScript, HTML, CSS**
+- 💬 Ask me about **Java, Springboot, MySQL, JavaScript, HTML, CSS, React, AWS and other Web Technologies**
 
 - Connect with me on <a href="https://www.linkedin.com/in/prince-kumar-7b9194247/">Linkdin</a>
 
@@ -23,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IE8nYQJuCAZkeaaYaVQdGL_VD2iI81hD/view?usp=share_link](https://drive.google.com/file/d/1IE8nYQJuCAZkeaaYaVQdGL_VD2iI81hD/view?usp=share_link)
 
-- ⚡ Fun fact **I learn quick.**
+- ⚡ Fun fact **I learn Very quick.**
 
 
 <!-- ## 🌐 Socials:  -->
